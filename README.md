@@ -54,3 +54,9 @@ https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner’s-Guide-To-Unde
 
 https://medium.com/kaggle-blog/profiling-top-kagglers-bestfitting-currently-1-in-the-world- 58cc0e187b
 
+Useful links:
+https://www.kaggle.com/busekseolu/cifar-10-with-functional-api-for-beginners?fbclid=IwAR1SURjCEHNN_5exHkTjf6-_YaOGo8jSAE4id1buTHFHScjQzEvUwJAT9j4
+https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/?fbclid=IwAR0fPq7cr0KRHHYbNcluE3G7jzgf7LySMakjoYgYOd8zApcxkR3fN6han4I
+
+General knowledge:
+https://medium.com/kaggle-blog/profiling-top-kagglers-bestfitting-currently-1-in-the-world-58cc0e187b
