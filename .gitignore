@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/DL_CNN.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+
+# Data
+data
+.idea/DL_CNN.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+
+# .idea
+.idea/
