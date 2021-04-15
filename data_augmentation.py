@@ -1,12 +1,10 @@
-import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 import cv2
 
 from copy import deepcopy
 from skimage import transform, util
-from scipy import ndimage
-from load_data import load_train, load_test
+from load_data import load_train
 import tensorflow as tf
 tf.get_logger().setLevel('INFO')
 
