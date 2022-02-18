@@ -1,6 +1,7 @@
-## Project II - convolutional neural networks
+## Image classification with Convolutional Neural Networks
+Pacyna Paulina, Szysz Mateusz, Wójcik Mateusz
 
-Image classification with convolutional neural networks
+All results, architectures and results are provided in `Image classification with Convolutional Neural Networks.pdf`
 
 
 Dataset: CIFAR-10
