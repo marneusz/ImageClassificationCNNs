@@ -33,4 +33,5 @@ def load_data_keras() -> (np.ndarray, np.ndarray,
     x_train = x_train / 255.
     x_test = x_test / 255.
     y_train = to_categorical(y_train, num_classes=10)
+    y_test = to_categorical(y_test, num_classes=10)
     return x_train, x_test, y_train, y_test
