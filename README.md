@@ -1,7 +1,7 @@
 ## Image classification with Convolutional Neural Networks
 Pacyna Paulina, Szysz Mateusz, Wójcik Mateusz
 
-All results, architectures and results are provided in `Image classification with Convolutional Neural Networks.pdf`
+All results, architectures and results are provided in `Image classification with CNNs.pdf`
 
 
 Dataset: CIFAR-10
