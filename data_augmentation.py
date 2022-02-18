@@ -4,7 +4,7 @@ import cv2
 
 from copy import deepcopy
 from skimage import transform, util
-from load_data import load_train
+from load_data import load_train, load_data_keras
 import tensorflow as tf
 tf.get_logger().setLevel('INFO')
 
@@ -64,4 +64,3 @@ def tests():
 
 if __name__ == "__main__":
     tests()
-
